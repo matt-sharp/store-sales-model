@@ -54,4 +54,34 @@ Project Organization
 
 --------
 
+## Background
+The location of a retail store plays a huge role in it's commercial success. A store location planning team uses various data sources to better understand the potential of candidate locations for new stores in the UK. They need data science help in designing a model that can predict the future sales [normalised_sales] of a store based on location characteristics.
+
+## Objective
+The objective of this project is to try different data science and machine learning techniques using real world data.
+
+### Dataset files:
+
+- train.csv
+- test.csv
+
+### Columns:
+
+- **location_id:** id of property location
+- **normalised_sales:** normalised sales value of store
+- **crime_rate:** crime rate in the area (higher means more crime)
+- **household_size:** mean household size in the area
+- **household_affluency:** mean household affluency in the area (higher means more affluent)
+- **public_transport_dist:** index of public transport availability in the area
+- **proportion_newbuilds:** proportion of newly built property in the area
+- **property_value:** average property value in the area
+- **commercial_property:** percentage of commercial properties in the area
+- **school_proximity:** average school proximity in the area
+- **transport_availability:** availability of different transport
+- **new_store:** new Grocery Retail store opened recently
+- **proportion_nonretail:** proportion of non-retail commercial properties in the area
+- **competitor_density:** density of competitor retailers
+- **proportion_flats:** proportion of blocks of flats in the area
+- **county:** county code of the area
+
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
