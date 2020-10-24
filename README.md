@@ -1,4 +1,4 @@
-store-sales-model
+# Store Sales Prediction Model
 ==============================
 
 A model designed to predict the future sales of a store based on location characteristics.
